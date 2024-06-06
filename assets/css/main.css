@@ -10,7 +10,7 @@
 }
 
 body {
-  background: url("./images/bg-desktop.png");
+  background: url("../images/bg-desktop.png");
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: contain;
@@ -27,7 +27,7 @@ body {
 }
 @media (max-width: 750px) {
   body {
-    background: url("./images/bg-mobile.png");
+    background: url("../images/bg-mobile.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
